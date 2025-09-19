@@ -1,0 +1,8 @@
+# Fichiers temporaires
+*.swp
+*.log
+*.cast
+*.gif
+
+# Asciinema
+demo.cast
