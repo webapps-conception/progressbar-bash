@@ -27,4 +27,4 @@ make test
 
 ## 🔖 Version
 
-Actuelle : v0.1.0
+Actuelle : v0.0.1
