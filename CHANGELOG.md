@@ -3,6 +3,8 @@ Toutes les modifications notables seront documentées ici.
 
 ## [Unreleased]
 
+## [0.0.5] - 2025-09-20
+
 ## [0.0.4] - 2025-09-20
 
 ## [0.0.3] - 2025-09-19
